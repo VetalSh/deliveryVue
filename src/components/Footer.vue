@@ -6,10 +6,10 @@
       </router-link>
       <div class="footer-nav">
         <ul>
-          <a href="./goods.html">Ресторанам</a>
-          <a href="./goods.html">Курьерам</a>
-          <a href="./goods.html">Пресс-центр</a>
-          <a href="./goods.html">Контакты</a>
+          <router-link to="/rest">Ресторанам</router-link>
+          <router-link to="/rest">Курьерам</router-link>
+          <router-link to="/rest">Пресс-центр</router-link>
+          <router-link to="/rest">Контакты</router-link>
         </ul>
       </div>
       <div class="footer-social">
